@@ -16,3 +16,6 @@ git add listoffile
 
 //Create initial commit
 git commit -m "first commit"
+
+//Pushing the code to the github
+git push origin

@@ -3,7 +3,7 @@
 int  avg(int a[]);
 int mean(int a[]);
 int mode(int a[]);
-
+//first change
 
 int main ()
 {
