@@ -1,0 +1,18 @@
+Method to push a repo to github
+
+// To initialize a git project
+git init
+
+// To setup the global configuration 
+git config --global user.name hsahu11
+git config --global user.mail email
+
+// Add the remote repository on which you want to push your code
+git remote add origin https://github.com/hsahu11/Training.git
+
+
+//Select the files for commit
+git add listoffile
+
+//Create initial commit
+git commit -m "first commit"
